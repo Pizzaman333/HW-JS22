@@ -1,0 +1,30 @@
+.slider {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.slider__input {
+  width: 100%;
+}
+
+.slider__image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+#box {
+  width: 280px;
+  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  background-color:aqua;
+  margin-right: auto;
+  margin-left: auto;
+}
